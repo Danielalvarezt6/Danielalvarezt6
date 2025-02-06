@@ -4,7 +4,7 @@
 
 ![WhatsApp Image 2024-12-23 at 2 59 06 AM](https://github.com/user-attachments/assets/11aaff2f-22d4-432c-89c9-02777f1155ad)
 
-¡Hola! Soy **Daniel Eduardo Álvarez Terrazas**, estudiante de **Ciencias de la Computación** en la **Universidad de Sonora (UNISON)**. Actualmente, me encuentro explorando el mundo del desarrollo de software, en especial el **desarrollo web**. Soy principiante en esta área, pero estoy lleno de motivación y ganas de aprender.
+¡Hola! Soy **Daniel Eduardo Alvarez Terrazas**, estudiante de **Ciencias de la Computación** en la **Universidad de Sonora (UNISON)**. Actualmente, me encuentro explorando el mundo del desarrollo de software, en especial el **desarrollo web**. Soy principiante en esta área, pero estoy lleno de motivación y ganas de aprender.
 
 ## Mis Intereses
 - 🌐 **Desarrollo web**: Estoy empezando desde lo básico y quiero aprender sobre las tecnologías modernas que hacen posible la creación de aplicaciones web.
