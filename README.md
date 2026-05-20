@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Data+Analysis+%26+Databases;Always+learning+new+things" />
 </p>
 
-<img align="right" width="250px" alt="Coding Cat" src="https://tenor.com/es-419/view/cat-computer-typing-busy-gif-15481689"/>
+<img align="right" width="250px" alt="Coding Cat" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif"/>
 
 ## 🧠 About Me
 
@@ -67,6 +67,6 @@ Outside of programming, I enjoy music, tech content, and learning about new tech
 
 <div align="center">
 
-<img src="https://tenor.com/es-419/view/concac-gif-399491743966962616" width="180px"/>
+<img src="https://media1.tenor.com/m/BYtHn-HaI7gAAAAd/concac.gif" width="180px"/>
 
 </div>
