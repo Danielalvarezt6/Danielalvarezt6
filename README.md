@@ -16,7 +16,7 @@ I'm also interested in learning more about artificial intelligence and its real-
 
 Outside of programming, I enjoy music, tech content, and learning about new technologies.
 
-<br>
+<br clear="right"/>
 
 ---
 
