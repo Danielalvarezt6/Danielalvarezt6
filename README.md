@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Data+Analysis+%26+Databases;Always+learning+new+things" />
 </p>
 
-<img align="right" width="250px" alt="Coding Cat" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif" style="margin-top: 40px;"/>
-
 ## 🧠 About Me
+
+<img align="right" width="250px" alt="Coding Cat" src="https://media1.tenor.com/m/g3y2q5VQxvAAAAAd/cat-computer.gif" style="margin-top: 40px;"/>
 
 I'm a Computer Science student at the University of Sonora who enjoys working with technology, data, databases, and machine learning.
 
