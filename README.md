@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hi, I'm Daniel Alvarez 👋</b></h1>
+<h1 align="center"><b>Hi, I'm Daniel Alvarez </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Data+Analysis+%26+Databases;Always+learning+new+things" />
